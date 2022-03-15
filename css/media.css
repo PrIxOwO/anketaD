@@ -13,4 +13,14 @@
         margin-top: 1.5rem;
     }
 
+    .FooterCenter{
+        margin-left: 0.8rem;
+        margin-right: 0.8rem;
+        text-align: center;
+    }
+
+    .FooterR{
+        text-align: center;
+    }
+
 }

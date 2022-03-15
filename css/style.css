@@ -104,12 +104,16 @@ p{
 }
 
 .FooterCenter{
-    margin-left: 8rem;
-    margin-right: 2rem;
+    margin-left: 15rem;
+    margin-right: 15rem;
     font-size: 0.9rem;
 
 }
 
 .white{
     color: rgba(255, 255, 255, 0.678);
+}
+
+.FooterR{
+    text-align: end;
 }
