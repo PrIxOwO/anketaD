@@ -121,3 +121,19 @@ p{
 .TextCitsR{
     text-align: center;
 }
+
+.FormContainer{
+    touch-action: none;
+}
+
+img{
+    cursor: default;
+}
+
+p{
+    cursor: default;
+}
+
+input{
+    cursor: pointer;
+}
