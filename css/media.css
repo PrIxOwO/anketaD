@@ -2,7 +2,7 @@
 {
 
     div{
-        border: none 1px greenyellow;
+        border: solid 1px greenyellow;
     }
     
     h1{
@@ -24,7 +24,7 @@
     }
 
     .TextCitsR{
-        text-align: start;
+        text-align: center;
     }
     p {
         line-height:2em;
@@ -36,7 +36,7 @@
 @media only screen and (max-width: 1199px)
 {
     div{
-        border: solid 1px rgb(0, 247, 255);
+        border: none 1px rgb(0, 247, 255);
     }
 
 }
