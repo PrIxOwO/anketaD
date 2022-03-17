@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(0, 255, 98);
     margin: 0;
 }
 
@@ -137,3 +137,29 @@ input{
 label{
     cursor: default;
 }
+
+
+
+.RSizer{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    width: 150px;
+    height: 150px;
+    margin:0;
+    border: none;
+    padding:0;
+    border-radius: 0.5rem;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.RSizer::-webkit-color-swatch-wrapper {
+	padding: 0;
+    margin:0;
+    background:none;
+    
+}
+.RSizer::-webkit-color-swatch {
+	border: none;
+    border-radius: 0.5rem;
+}
+
