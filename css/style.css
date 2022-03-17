@@ -53,10 +53,7 @@ p{
     margin-top: 3rem;
 }
 
-.Test{
-    border: solid 1px red;
-    padding: 4rem;
-}
+
 
 .ButtonsS{
     border: solid 1px black;
@@ -163,5 +160,5 @@ label{
 }
 
 p {
-    line-height:0.7em;
+    line-height:1em;
   }

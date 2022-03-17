@@ -26,6 +26,9 @@
     .TextCitsR{
         text-align: start;
     }
+    p {
+        line-height:2em;
+      }
 
 }
 
