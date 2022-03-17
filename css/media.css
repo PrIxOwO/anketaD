@@ -30,6 +30,10 @@
         line-height:2em;
       }
 
+    .SpacerOnMin{
+        margin-top: 6.5rem;
+    }
+
 }
 
 
@@ -39,4 +43,8 @@
         border: none 1px rgb(0, 247, 255);
     }
 
+
+    .SpacerOnMin{
+        margin-top: 6.5rem;
+    }
 }
