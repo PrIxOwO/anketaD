@@ -149,7 +149,7 @@ label{
     margin:0;
     border: none;
     padding:0;
-    border-radius: 0.5rem;
+    border-radius: 0.8rem;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 .RSizer::-webkit-color-swatch-wrapper {
@@ -160,6 +160,6 @@ label{
 }
 .RSizer::-webkit-color-swatch {
 	border: none;
-    border-radius: 0.5rem;
+    border-radius: 0.8rem;
 }
 
