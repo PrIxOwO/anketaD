@@ -105,6 +105,11 @@
         display: none;
       }
 
+
+      .Tbreak {
+        inline-size: 400px;
+        overflow-wrap: break-word;
+  }
 /*
     .Box{
         border: none black 1px;
