@@ -162,7 +162,7 @@ p {
 
 .relative{
     position: absolute;
-    margin-top: 4.5rem;
+    margin-top: 3.5vw;
 }
 
 .Brelative{
@@ -179,3 +179,12 @@ p {
     margin-top: 4.5rem;
 }
 
+.PPhoto{
+    max-width: 95%;
+    max-height: 95%;
+}
+
+
+.container-fluid{
+    max-width: 1400px;
+}
