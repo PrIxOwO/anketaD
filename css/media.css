@@ -101,6 +101,10 @@
         margin-top: 6.5rem;
     }
 
+    .hidden {
+        display: none;
+      }
+
 /*
     .Box{
         border: none black 1px;
