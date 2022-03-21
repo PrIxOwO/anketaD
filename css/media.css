@@ -2,7 +2,7 @@
 {
 
     div{
-        border: solid 1px greenyellow;
+        border: none 1px greenyellow;
     }
     
     h1{
@@ -34,17 +34,65 @@
         margin-top: 6.5rem;
     }
 
+    .CenterMin{
+        text-align:center;
+    }
+
 }
 
 
 @media only screen and (max-width: 1199px)
 {
     div{
-        border: none 1px rgb(0, 247, 255);
+        border: solid 1px rgb(0, 247, 255);
     }
 
 
     .SpacerOnMin{
         margin-top: 6.5rem;
     }
+
+    CenterMin{
+        align-items: center;
+    }
 }
+
+@media only screen and (max-width: 1399px)
+{
+    div{
+        border: none 1px rgb(255, 187, 0);
+    
+    }
+
+
+
+}
+
+
+@media only screen and (max-width: 1200px)
+{
+    div{
+        border: none 1px rgb(255, 0, 200);
+    
+    }
+
+
+}
+
+
+
+@media only screen and (max-width: 768px)
+{
+    div{
+        border: none 1px rgb(187, 255, 0);
+    
+    }
+
+
+    .MediSpacerOnMin{
+        margin-top: 6.5rem;
+    }
+
+}
+
+
