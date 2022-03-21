@@ -76,7 +76,7 @@
     }
 /*
     .Box{
-        border: solid black 1px;
+        border: none black 1px;
         margin-left: 20px;
         margin-right: 20px;
     }
@@ -103,7 +103,7 @@
 
 /*
     .Box{
-        border: solid black 1px;
+        border: none black 1px;
         margin-left: 0rem;
         margin-right: 0rem;
     }
