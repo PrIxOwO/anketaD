@@ -188,3 +188,18 @@ p {
 .container-fluid{
     max-width: 1400px;
 }
+
+
+.SubmitButton{
+    color: white;
+    text-decoration: none;
+    background-color: #fd7a50;
+    border: none;
+    border-radius: 0.5rem;
+    width: 9rem;
+    height: 4rem;
+}
+
+.SubmitButton:hover{
+    background-color: black;
+}
