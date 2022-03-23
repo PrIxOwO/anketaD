@@ -213,3 +213,73 @@ footer{
 .CenterInput{
     text-align: center;
 }
+
+
+
+/**/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap');
+:root
+{
+    --green: #fd7a50;
+    --bg: #dce4d1;
+}
+
+
+body
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+}
+
+.NumberCircle
+{
+    background-color: var(--green);
+    max-width: 4.5rem;
+    aspect-ratio: 1 / 1;
+    border-radius: 50%;
+}
+.EmojiDesc
+{
+    font-size: 1rem;
+    text-align: center;
+}
+
+.AnswerRow
+{
+    border-bottom: 2px solid #bdbdbd;
+}
+
+
+
+
+.CustomRadio
+{
+    display: none !important;
+}
+.CustomLabel
+{
+    opacity: 0.5;
+    filter: grayscale(100%);
+    width: 5rem;
+}
+.CustomRadio:checked + label
+{
+    opacity: 1;
+    filter: grayscale(0%);
+}
+label
+{
+    cursor: pointer;   
+}
+.CustomLabel > img
+{
+    width:100%;
+}
+.CustomLabel
+{
+    transition: all 0.3s;
+    position: relative;
+    display: inline-block;
+}
