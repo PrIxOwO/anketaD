@@ -130,10 +130,10 @@
 
 @media only screen and (max-width: 500px)
 {
-/*
-    .IMGCenter{
-        text-align: center;
+    .relative{
+        position: absolute;
+        margin-left: 2vw;
+        margin-top: 2.5rem;
     }
-    */
 }
 
