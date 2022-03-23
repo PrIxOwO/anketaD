@@ -116,13 +116,14 @@
         inline-size: 250px;
         overflow-wrap: break-word;
   }
-/*
-    .Box{
-        border: none black 1px;
-        margin-left: 0rem;
-        margin-right: 0rem;
-    }
-    */
+
+  .AnswerRow
+{
+    border-bottom: 2px solid #bdbdbd;
+    margin-left: 0.1rem;
+    margin-right: 0.1rem;
+}
+
 }
 
 
